@@ -1,2 +1,0 @@
-if you can see this message, it means that i successfully commit my local code to my github!
-Nice!
